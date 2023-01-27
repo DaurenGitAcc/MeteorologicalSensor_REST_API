@@ -4,6 +4,7 @@
 ## О проекте/About project
 
   Реализация серверной стороны REST API приложения для метеорологической службы. 
+  
   Имеет следующие возможности:
   1. Принимает с клиентской стороны json с данными сенсора и регистрирует его
   2. Принимает с клиентской стороны json с данными измерения температур и дождливости и записывать его к определенному сенсору 
@@ -11,6 +12,7 @@
   4. Отправляет в ответ на запрос количество дождливых дней
 
   Implementation of the server side of the REST API of the application for the meteorological service. 
+  
   It has the following features:
   1. Receives a request with json of sensor data from the client side and registers it
   2. Receives a request with json of temperature and rain measurement data from the client side and records it to a specific sensor 
